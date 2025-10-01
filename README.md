@@ -31,21 +31,3 @@ A web-based AI assistant that helps researchers analyze academic papers. Upload 
 A tool for HRs to upload employee datasets and receive attrition predictions, personalized training plans, and compliance reports — all backed by visual analytics and Gemini API insights.
 
 ---
-
-## 📚 Current Focus
-
-- Mastering Reinforcement Learning and LLM system design  
-- Building production-grade AI applications with scalable backend  
-- Exploring open-source contributions in ML and MLOps
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(if available)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 📧 Email: your.email@example.com
-
----
-
-### ⚡ “Building the future — one model, one line of code at a time.”
