@@ -1,33 +1,69 @@
-# 👋 Hi, I'm Nikesh Patil — AI Engineer | ML Enthusiast | Builder of Intelligent Systems
+# 👋 Hi, I'm Nikesh Patil
 
-Welcome to my GitHub! I’m a passionate **AI Engineer** with a strong foundation in Machine Learning, Deep Learning, and full-stack development. I specialize in building intelligent systems that combine advanced AI models with practical, scalable web applications. My work integrates **Python**, **FastAPI**, **ReactJS**, and state-of-the-art models like **Gemini API**, **LangChain**, and **PyTorch/TensorFlow**.
+AI Engineer focused on building **production-ready GenAI systems** — not demos.
 
-## 🚀 What I Do
-- 🤖 **AI & ML Engineering**: Build, fine-tune, and deploy ML/DL models for real-world tasks.
-- 🌐 **AI-Powered Web Applications**: Seamlessly integrate AI models into user-friendly web apps using ReactJS, FastAPI, and Gemini.
-- 📊 **Data Analytics & Visualization**: Extract insights from raw data, generate actionable summaries, and create beautiful visual dashboards.
-- 🧠 **LLM & Prompt Engineering**: Design intelligent assistants using LangChain and Gemini for research, HR, and automation workflows.
-
----
-
-## 🛠 Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**AI/ML:** Scikit-learn, TensorFlow, PyTorch, LangChain, Gemini AI API  
-**Web Development:** FastAPI, Flask, ReactJS, Tailwind CSS  
-**Databases:** PostgreSQL, Supabase, MongoDB  
-**Tools:** Git, Docker, VSCode, Jupyter, GitHub Actions  
-**Deployment:** Vercel, Render, Railway, Docker Hub  
+I work on **RAG pipelines, agentic workflows, and local LLM systems**, with an emphasis on:
+- low latency (TTFT)
+- retrieval accuracy
+- privacy-first deployment
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ What I Work On
 
-### 🔍 Research-Ease (Gemini API, LangChain, FastAPI, ReactJS)
-[GitHub Repo](https://github.com/yourusername/research-ease)  
-A web-based AI assistant that helps researchers analyze academic papers. Upload a PDF and get structured insights like summaries, gap analysis, novelty detection, and research trends using Gemini-powered prompts.
-
-### 📈 HR Analytics Platform (Gemini API, Supabase, ReactJS, Python)
-[GitHub Repo](https://github.com/yourusername/hr-analytics-platform)  
-A tool for HRs to upload employee datasets and receive attrition predictions, personalized training plans, and compliance reports — all backed by visual analytics and Gemini API insights.
+- **RAG Systems** – multi-document retrieval, evaluation, hallucination reduction  
+- **Agentic AI** – stateful workflows using LangGraph  
+- **Local LLMs** – GGUF quantization, Ollama-based inference  
+- **APIs** – FastAPI-based scalable backends  
+- **Evaluation** – Ragas, golden datasets, observability  
 
 ---
+
+## 🧠 Tech Stack
+
+**Languages**  
+Python, SQL  
+
+**GenAI & LLMs**  
+LangChain, LangGraph, RAG, Ragas, Agentic Workflows, Vector DBs (FAISS, Weaviate, ChromaDB), Ollama  
+
+**ML / NLP**  
+Scikit-learn, TensorFlow, Hugging Face  
+
+**Backend & Deployment**  
+FastAPI, Docker, REST APIs, MLflow, GCP  
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 Technical Documentation RAG
+- Built agentic RAG system using LangGraph for multi-document reasoning  
+- Integrated hybrid search (BM25 + embeddings) with LLM re-ranking  
+- Reduced hallucinations by grounding responses to source docs  
+- Evaluated pipeline using Ragas with a curated dataset  
+
+### 🔹 Local LLM Inference Server
+- Designed privacy-first on-device LLM system using Ollama + FastAPI  
+- Benchmarked quantized models (LLaMA, Mistral) for latency & throughput  
+- Enforced structured outputs using Pydantic validation  
+
+---
+
+## 📊 Current Focus
+
+- Improving **RAG evaluation & observability**
+- Optimizing **local LLM performance under constraints**
+- Building **real-world agentic systems (not toy chains)**
+
+---
+
+## 📫 Connect
+
+- 🌐 Portfolio: https://nikeshpatil.in  
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💻 GitHub: https://github.com/your-username  
+
+---
+
+Everything here is built with a **production mindset**.
